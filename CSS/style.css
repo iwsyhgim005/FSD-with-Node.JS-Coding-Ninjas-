@@ -1,0 +1,17 @@
+p{
+	color: orange;
+	font-size: 20px;
+}
+
+/*h3 {
+	text-transform: uppercase;
+}*/
+
+/*Creating Class*/
+.uppercase{
+	text-transform: uppercase;
+}
+
+.curcive{
+	font-family: cursive;
+}
